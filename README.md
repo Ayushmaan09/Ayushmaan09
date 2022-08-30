@@ -2,10 +2,12 @@
 *About Me:*
 I am a final year student of Computer Science at VIT Vellore, and am from Gwalior, Madhya Pradesh. I love to study about new topics and as of now am playing Chess.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+<img align="right" height=300 width=300 alt="GIF" src="https://raw.githubusercontent.com/Ayushmaan09/Ayushmaan09/main/gitchess.jpeg"/>
 
 
 - 📫 How to reach me *ayushmaan0901@gmail.com*
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Bullet Chess only !
 
 *Languages and Tools:*
 <br/>
